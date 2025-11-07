@@ -1,2 +1,2 @@
 # WDSEventDB
-WDSEventDB: a real-time benchmark dataset for event diagnosis for water distribution networks
+WDSEventDB is an open-source, real-time dataset collected from a sensor-instrumented water distribution testbed, featuring cyberattack, leakage, and sensor-failure events for event diagnosis and anomaly detection research.
