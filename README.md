@@ -14,7 +14,7 @@ The main folder WDSEventDB.zip contains four subfolders: (1) clean (normal opera
 # Citation
 If you use the above dataset for evaluating the anomaly detection framework, please cite our EWRI conference article below:
 
-Raza, N., Iwakin, O., Putri, S. A., Daniela, V., & Moazeni, F. (2025). WDSEventDB: A real-time benchmark dataset for event diagnosis in water distribution networks [Data set]. World Environmental & Water Resources Congress 2026 (EWRI 2026), Mobile, Alabama. [DOI will be provided soon]
+Raza, N., Iwakin, Daniela, V.,  O., Putri, S. A., & Moazeni, F. (2025). WDSEventDB: A real-time benchmark dataset for event diagnosis in water distribution networks [Data set]. World Environmental & Water Resources Congress 2026 (EWRI 2026), Mobile, Alabama. [DOI will be provided soon]
 
 
 
